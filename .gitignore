@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings
+/bin/
+.metadata/
+test-output/
+.pydevproject
+hs_err_pid*
